@@ -1,0 +1,9 @@
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlite("Filename=C:\\Temp\\School.db", options =>
+        //    {
+        //        options.MigrationsAssembly(Assembly.GetExecutingAssembly().FullName);
+        //    });
+        //    base.OnConfiguring(optionsBuilder);
+        //}
