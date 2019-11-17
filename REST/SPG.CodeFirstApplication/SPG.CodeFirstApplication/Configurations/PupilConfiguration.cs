@@ -2,8 +2,6 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using SPG.CodeFirstApplication.Entities;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace SPG.CodeFirstApplication.Configurations
 {
