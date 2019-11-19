@@ -102,3 +102,4 @@ C:\Users\schrutem\Source\Repos\HTL\GIT_Schrutek\4xHIF\pos4xhif\REST\SPG.CodeFirs
 C:\Users\schrutem\Source\Repos\HTL\GIT_Schrutek\4xHIF\pos4xhif\REST\SPG.CodeFirstApplication\SPG.CodeFirstApplication\obj\Debug\netcoreapp3.0\SPG.CodeFirstApplication.csproj.CopyComplete
 C:\Users\schrutem\Source\Repos\HTL\GIT_Schrutek\4xHIF\pos4xhif\REST\SPG.CodeFirstApplication\SPG.CodeFirstApplication\obj\Debug\netcoreapp3.0\SPG.CodeFirstApplication.dll
 C:\Users\schrutem\Source\Repos\HTL\GIT_Schrutek\4xHIF\pos4xhif\REST\SPG.CodeFirstApplication\SPG.CodeFirstApplication\obj\Debug\netcoreapp3.0\SPG.CodeFirstApplication.pdb
+C:\Users\schrutem\Source\Repos\HTL\GIT_Schrutek\4xHIF\pos4xhif\REST\SPG.CodeFirstApplication\SPG.CodeFirstApplication\obj\Debug\netcoreapp3.0\SPG.CodeFirstApplication.csprojAssemblyReference.cache
