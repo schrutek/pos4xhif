@@ -1,0 +1,10 @@
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.deps.json
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.runtimeconfig.json
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.runtimeconfig.dev.json
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.dll
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.pdb
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.csprojAssemblyReference.cache
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.AssemblyInfoInputs.cache
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.AssemblyInfo.cs
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.dll
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.DomainModel\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel.pdb

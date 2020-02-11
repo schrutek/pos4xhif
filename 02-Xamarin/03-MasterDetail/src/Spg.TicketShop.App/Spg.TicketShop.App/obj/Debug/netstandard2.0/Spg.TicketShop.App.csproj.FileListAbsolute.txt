@@ -1,0 +1,17 @@
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\bin\Debug\netstandard2.0\appsettings.json
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\bin\Debug\netstandard2.0\Spg.TicketShop.App.deps.json
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\bin\Debug\netstandard2.0\Spg.TicketShop.App.dll
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\bin\Debug\netstandard2.0\ref\Spg.TicketShop.App.dll
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\bin\Debug\netstandard2.0\Spg.TicketShop.App.pdb
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\bin\Debug\netstandard2.0\Spg.TicketShop.Core.dll
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\bin\Debug\netstandard2.0\Spg.TicketShop.Core.pdb
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\Spg.TicketShop.App.csprojAssemblyReference.cache
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\Spg.TicketShop.App.AssemblyInfoInputs.cache
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\Spg.TicketShop.App.AssemblyInfo.cs
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\Spg.TicketShop.App.csproj.CopyComplete
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\Spg.TicketShop.App.dll
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\ref\Spg.TicketShop.App.dll
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App\obj\Debug\netstandard2.0\Spg.TicketShop.App.pdb

@@ -1,0 +1,1 @@
+C:\HTL\Pos4xHif\02-Xamarin\03-MasterDetail\src\Spg.TicketShop.App\Spg.TicketShop.App.UWP\Spg.TicketShop.App.UWP.csproj;x86

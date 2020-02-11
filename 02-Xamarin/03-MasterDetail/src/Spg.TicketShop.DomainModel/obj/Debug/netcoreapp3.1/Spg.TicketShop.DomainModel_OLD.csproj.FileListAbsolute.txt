@@ -1,0 +1,10 @@
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.deps.json
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.runtimeconfig.json
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.runtimeconfig.dev.json
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.dll
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\bin\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.pdb
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.AssemblyInfoInputs.cache
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.AssemblyInfo.cs
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.dll
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.pdb
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.DomainModel_OLD\obj\Debug\netcoreapp3.1\Spg.TicketShop.DomainModel_OLD.csprojAssemblyReference.cache
