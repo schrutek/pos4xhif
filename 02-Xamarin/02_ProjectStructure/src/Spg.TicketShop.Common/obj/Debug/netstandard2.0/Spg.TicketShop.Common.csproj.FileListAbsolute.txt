@@ -1,0 +1,7 @@
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.Common\bin\Debug\netstandard2.0\Spg.TicketShop.Common.deps.json
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.Common\bin\Debug\netstandard2.0\Spg.TicketShop.Common.dll
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.Common\bin\Debug\netstandard2.0\Spg.TicketShop.Common.pdb
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.Common\obj\Debug\netstandard2.0\Spg.TicketShop.Common.AssemblyInfoInputs.cache
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.Common\obj\Debug\netstandard2.0\Spg.TicketShop.Common.AssemblyInfo.cs
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.Common\obj\Debug\netstandard2.0\Spg.TicketShop.Common.dll
+C:\4xHifPos\TicketShop\Spg.TicketShop\src\Spg.TicketShop.Common\obj\Debug\netstandard2.0\Spg.TicketShop.Common.pdb
